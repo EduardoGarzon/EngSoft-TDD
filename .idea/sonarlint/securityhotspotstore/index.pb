@@ -9,3 +9,9 @@ C
 src/DollarTest.java,2\4\249d9f6738ca687dc8bbcc05409b7bec393b9ba0
 C
 src/TestRunner.java,3\d\3da36a6b9c1fdd3875d2b74046ddd42946ad67ec
+>
+src/Franc.java,e\4\e4ce4a5cedd36ffd9ac3f60ea22131ace2b12a17
+>
+src/Money.java,0\0\0086bd6e7dd658df5b10396ccf9b799bb140438a
+B
+src/FrancTest.java,0\4\04009883af6c71f3d8340bed6868cb2a800f26e6

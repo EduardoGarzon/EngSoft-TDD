@@ -7,3 +7,9 @@ C
 src/DollarTest.java,2\4\249d9f6738ca687dc8bbcc05409b7bec393b9ba0
 =
 src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+>
+src/Money.java,0\0\0086bd6e7dd658df5b10396ccf9b799bb140438a
+>
+src/Franc.java,e\4\e4ce4a5cedd36ffd9ac3f60ea22131ace2b12a17
+B
+src/FrancTest.java,0\4\04009883af6c71f3d8340bed6868cb2a800f26e6

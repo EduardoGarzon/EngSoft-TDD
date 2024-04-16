@@ -1,3 +1,12 @@
 
-7
-java:S1220""Move this file to a named package.8µ¥‚žî1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8üž• î1
+[
+java:S1854*"9Remove this useless assignment to local variable "count".(¢™Œ½üÿÿÿÿ8ú˜ î1
+G	java:S106"+Replace this use of System.out by a logger.(´¨‹Ê8Ô¼“ î1
+L	java:S106"+Replace this use of System.out by a logger.(‘¹Þûÿÿÿÿ8Ô¼“ î1
+F	java:S106!"+Replace this use of System.out by a logger.(‚š‰18Ô¼“ î1
+L	java:S106$"+Replace this use of System.out by a logger.(ÿ“ñ¯ÿÿÿÿÿ8Ô¼“ î1
+L	java:S106("+Replace this use of System.out by a logger.(€ÚÕ øÿÿÿÿ8‹Ÿ• î1
+F	java:S106;"+Replace this use of System.out by a logger.(‚š‰18‹Ÿ• î1
+L	java:S106>"+Replace this use of System.out by a logger.(ÿ“ñ¯ÿÿÿÿÿ8Ðå± î1
